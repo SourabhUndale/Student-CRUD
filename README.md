@@ -29,7 +29,7 @@ When working with **Spring Boot** projects there is no constrained package struc
 - Spring Web
 - Spring Data JPA
 - MySQL Driver
-- 
+
 ## Backend API
 
 - POST     /students

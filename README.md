@@ -23,6 +23,7 @@ When working with **Spring Boot** projects there is no constrained package struc
 ## Prerequisites
 - Maven 3+
 - Java 8+
+- MySQL 8
 
 
 ## Libraries and Dependencies
